@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/badris-abdelilah-96874211a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badris-abdelilah-96874211a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/badris-abdelilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badris-abdelilah-96874211a" height="30" width="40" /></a>
 <a href="https://instagram.com/badris_abdelilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badris_abdelilah" height="30" width="40" /></a>
 </p>
 
