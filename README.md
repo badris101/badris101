@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **badrisabdelilah7@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/badris-abdelilah-96874211a/](https://www.linkedin.com/in/badris-abdelilah-96874211a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/badris-abdelilah/](https://www.linkedin.com/in/badris-abdelilah/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
